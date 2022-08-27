@@ -7,4 +7,4 @@ The chosen dataset was for Video Games, it was chosen due to the analysts long h
 - AWS, Google Colab Notebooks, pgAdmin, PostgresSQL
 - Data was sourced from https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
 ## Results of the Analysis
-** Results **
+**Total Reviews**
