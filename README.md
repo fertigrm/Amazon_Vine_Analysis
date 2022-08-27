@@ -22,3 +22,5 @@ The chosen dataset was for Video Games, it was chosen due to the analysts long h
 ![mod16_five_star_percent](https://user-images.githubusercontent.com/102084269/187047914-cdc58391-7435-4402-9b80-bbcdd784ba70.PNG)
 - Unpaid Reviews
 ![mod16_five_star_unpaid_percent](https://user-images.githubusercontent.com/102084269/187047923-efe2e00e-4e4e-4b04-a298-dd2a2c65fb4d.PNG)
+## Summary of Analysis
+We see that the percentage of PAID 5 Star Reviews is 51% while the UNPAID is sitting only at roughly 39%, from this we can see a potential bias for reviews from members of the Vine program.
